@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigateWindows</string>
+    <string name="btnInterface2">Cambiar a otra pantalla</string>
+    <string name="btnInterface1">Cambiar a pantalla 1</string>
+</resources>
