@@ -2,4 +2,34 @@
     <string name="app_name">NavigateWindows</string>
     <string name="btnInterface2">Cambiar a otra pantalla</string>
     <string name="btnInterface1">Cambiar a pantalla 1</string>
+    <string name="titleTextView">Inicio</string>
+    <string name="optionsTextView">Escoja una opción para calcular:</string>
+    <string name="btnPairOrNotPair">Verificar par o impar</string>
+    <string name="btnPrimesNumbers">Hallar números primos</string>
+    <string name="btnPerfectNumbers">Hallar números perfectos</string>
+
+    <string name="textView1">Ingrese un número entero positivo:</string>
+    <string name="textView2_1">Ingrese el valor inicial:</string>
+    <string name="textView2_2">Ingrese el valor final:</string>
+    <string name="textView3_1">Ingrese el valor inicial:</string>
+    <string name="textView3_2">Ingrese el valor final:</string>
+
+    <string name="inputEditText1">Ingrese aquí</string>
+    <string name="inputEditText2_1">Ingrese aquí</string>
+    <string name="inputEditText2_2">Ingrese aquí</string>
+    <string name="inputEditText3_1">Ingrese aquí</string>
+    <string name="inputEditText3_2">Ingrese aquí</string>
+
+    <string name="btnResolve1">Verificar</string>
+    <string name="btnResolve2">Resolver</string>
+    <string name="btnResolve3">Resolver</string>
+
+    <string name="btnReturn1">Regresar</string>
+    <string name="btnReturn2">Regresar</string>
+    <string name="btnReturn3">Regresar</string>
+
+    <string name="resultTextView1"></string>
+    <string name="resultTextView2"></string>
+    <string name="resultTextView3"></string>
+
 </resources>

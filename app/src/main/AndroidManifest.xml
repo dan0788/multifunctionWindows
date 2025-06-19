@@ -23,7 +23,27 @@
         </activity>
 
         <activity
-            android:name=".subwindows.Interface2"
+            android:name=".subwindows.PairOrNotPairClass"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".subwindows.PerfectNumbersClass"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".subwindows.PrimeNumbersClass"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

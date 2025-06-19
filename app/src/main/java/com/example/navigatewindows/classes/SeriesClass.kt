@@ -11,7 +11,7 @@ class SeriesClass : SeriesInterface {
         }
     }
 
-    override fun primes(startValue: Int, finalValue: Int) : MutableList<Int> {//hallar los primos hasta un valor final
+    override fun primesNumbers(startValue: Int, finalValue: Int) : MutableList<Int> {//hallar los primos hasta un valor final
         var listInt=(startValue..finalValue).toMutableList()
         var listPrimos : MutableList<Int> = mutableListOf()
 
@@ -53,7 +53,7 @@ class SeriesClass : SeriesInterface {
         if(number > 2 && number%2 != 0){
             var raiz = Math.pow(number.toDouble(), 0.5)//calcular raiz
             var d = raiz.toInt()
-            var listaPrimos = primes(3, d)
+            var listaPrimos = primesNumbers(3, d)
 
             for (i in listaPrimos){
                 if (number%i != 0){
